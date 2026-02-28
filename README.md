@@ -1,2 +1,1 @@
-# and102-parks-2
-and102-parks-2
+<img src='app/src/main/assets/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
